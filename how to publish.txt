@@ -1,0 +1,14 @@
+how to publish:
+
+in VS right click on package project
+select publish > create app package
+select sideloading and deselect automatic updates
+select DIGT certificate
+check version number and set all packages to release config
+select create, once complete, popup wil guide to location
+
+
+how to create new release:
+go to output folder of app package (normally this will be \DIGT.exe\DIGT.exe (Package)\AppPackages\)
+zip the release folder that you just created
+on github, create new release, create new tag with version number and upload the zip created.
