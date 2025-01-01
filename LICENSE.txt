@@ -1,4 +1,4 @@
-Push-Up LIcense (PUL)
+Push-Up License (PUL)
 
 Copyright (c) 2025 DIGT
 
